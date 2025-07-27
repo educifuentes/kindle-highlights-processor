@@ -1,10 +1,12 @@
-- Foreword
+Notes from The Alchemist – Paulo Coelho
+
+## Foreword
   - People continue to ask me if I knew The Alchemist would be such a huge success. The answer is no. I had no idea. How could I? When I sat down to write The Alchemist, all I knew is that I wanted to write about my soul. I wanted to write about my quest to find my treasure.
   - The story of one person is the story of everyone, and one man’s quest is the quest of all of humanity,
   - When I read about clashes around the world—political clashes, economic clashes, cultural clashes—I am reminded that it is within our power to build a bridge to be crossed. Even if my neighbor doesn’t understand my religion or understand my politics, he can understand my story. If he can understand my story, then he’s never too far from me.
-- Prologue
+## Prologue
   - could see, in the depths of his eyes, my own beauty reflected.” “What a lovely story,” the alchemist thought.
-- Part One
+## Part One
   - Thinking about that for a moment, he realized that it could be the other way around: that it was he who had become accustomed to their schedule.
   - He recognized that he was feeling something he had never experienced before: the desire to live in one place forever. With the girl with the raven hair, his days would never be the same again.
   - They trust me, and they’ve forgotten how to rely on their own instincts, because I lead them to nourishment.
@@ -47,7 +49,7 @@
   - He was learning a lot of new things. Some of them were things that he had already experienced, and weren’t really new, but that he had never perceived before.
   - “You didn’t have to do any cleaning,” he said. “The Koran requires me to feed a hungry person.”
   - People talk a lot about omens, thought the shepherd. But they really don’t know what they’re saying.
-- Part Two
+## Part Two
   - “Well, why don’t you go to Mecca now?” asked the boy. “Because it’s the thought of Mecca that keeps me alive.
   - I’m afraid that if my dream is realized, I’ll have no reason to go on living.
   - “You dream about your sheep and the Pyramids, but you’re different from me, because you want to realize your dreams. I just want to dream about Mecca.
@@ -160,11 +162,11 @@
   - “What good is money to you if you’re going to die? It’s not often that money can save someone’s life,” the alchemist had said.
   - But I’m not so stupid as to cross an entire desert just because of a recurrent dream.”
   - They seemed to laugh at him, and he laughed back, his heart bursting with joy. Because now he knew where his treasure was.
-- Epilogue
+## Epilogue
   - “Well, it’s a long list. But the path was written in the omens, and there was no way I could go wrong,” he said to himself.
   - It’s true; life really is generous to those who pursue their Personal Legend, the boy thought.
   - ==Wow==
-- About the Author
+## About the Author
   - “I always knew,” he says, “that my Personal Legend, to use a term from alchemy, was to write.” He was thirty-eight when he published his first book.
   - he achieved a self-awareness and a spiritual awakening that he later described in The Pilgrimage.
   - Paulo Coelho once said that following your dream is like learning a foreign language; you will make mistakes but you will get there in the end.

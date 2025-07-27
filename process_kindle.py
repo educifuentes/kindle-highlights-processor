@@ -39,10 +39,12 @@ def process_notes(soup, notes):
     items = soup.select('.noteText, .sectionHeading')
     for item in items:
         line = item.get_text(strip=True)
-        spaces = 0 if is_heading(item) else 2
-        if is_important(line):
-            line = highlight(line)
-        notes.append(f"{prefix(spaces)} {line}")
+        if is_heading(item):
+            notes.append(f"## {line}")
+        else:
+            if is_important(line):
+                line = highlight(line)
+            notes.append(f"{prefix(2)} {line}")
 
 def is_heading(tag):
     return 'sectionHeading' in tag.get('class', [])
