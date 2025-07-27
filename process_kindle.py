@@ -1,4 +1,4 @@
-from lxml import html
+from bs4 import BeautifulSoup
 import sys
 from pathlib import Path
 
@@ -10,11 +10,11 @@ def main():
     print(":::kindle-to-markdown:::")
     print(f"Processing highlights for {title}")
 
-    with open(filename, 'rb') as f:
-        doc = html.parse(f)
+    with open(filename, 'r', encoding='utf-8') as f:
+        soup = BeautifulSoup(f, 'html.parser')
 
     notes = []
-    process_notes(doc, notes)
+    process_notes(soup, notes)
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(notes))
@@ -22,17 +22,17 @@ def main():
     print(f"📖 Succesfully exported notebook '{output_file}' ...")
     print(". . . . .")
 
-def process_notes(doc, notes):
-    items = doc.xpath("//*[contains(@class, 'noteText') or contains(@class, 'sectionHeading')]")
-    for item in sorted(items, key=lambda x: etree.tostring(x)):
-        line = item.text or ''
+def process_notes(soup, notes):
+    items = soup.select('.noteText, .sectionHeading')
+    for item in items:
+        line = item.get_text(strip=True)
         spaces = 0 if is_heading(item) else 2
         if is_important(line):
             line = highlight(line)
         notes.append(f"{prefix(spaces)} {line}")
 
-def is_heading(elem):
-    return elem.attrib.get('class') == 'sectionHeading'
+def is_heading(tag):
+    return 'sectionHeading' in tag.get('class', [])
 
 def is_important(line):
     return line.startswith('Wow')
