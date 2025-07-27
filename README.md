@@ -47,3 +47,38 @@ python process_kindle.py notebooks/<your_notebook.html>
   - Thinking about that for a moment, he realized that it could be the other way around: that it was he who had become accustomed to their schedule.
 ```
 
+### 🔧 Install as a Global Command (macOS/Linux)
+
+You can make this script globally accessible from the terminal by installing it as a command-line tool:
+
+1. **Ensure the script starts with a shebang line** at the top of `process_kindle.py`:
+
+    ```python
+    #!/usr/bin/env python3
+    ```
+
+2. **Make the script executable:**
+
+    ```bash
+    chmod +x process_kindle.py
+    ```
+
+3. **Move it to a directory in your system PATH** (you’ll need admin permissions):
+
+    ```bash
+    sudo mv process_kindle.py /usr/local/bin/kindle-notes
+    ```
+
+4. **Run it from anywhere:**
+
+    ```bash
+    kindle-notes path/to/your_notebook.html
+    ```
+
+    The Markdown file will be saved in your current working directory as `<notebook>_notes.md`.
+
+5. **To uninstall later:**
+
+    ```bash
+    sudo rm /usr/local/bin/kindle-notes
+    ```
