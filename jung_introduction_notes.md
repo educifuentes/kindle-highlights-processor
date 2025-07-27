@@ -1,0 +1,167 @@
+Jung_ A Very Short Introduction – Anthony Stevens
+
+## Preface
+  - he had an encyclopaedic knowledge of mythology, religion, philosophy, gnosticism, and alchemy, knew English, French, Latin, and Greek, as well as his native German, and was at home in the literature of each.
+  - it is evident in everything he wrote, and since he was not good at organizing his material, The Collected Works of C. G. Jung in twenty large volumes afford a daunting prospect to the uninitiated reader.
+  - recognized his failings as a communicator (‘ Nobody reads my books’, he said, and ‘I have such a hell of a trouble to make people see what I mean’),
+## Acknowledgements
+  - Jung was a man of paradox. In one sense he was an individualist, a great eccentric. In another he was the living embodiment of the universal man.
+  - ‘To be normal’, he said, ‘is the ideal aim of the unsuccessful.’
+  - Although considering himself a rational scientist, he was willing to give his attention to matters conventionally regarded as irrational or esoteric, and he was not unduly perturbed on those occasions when such interests put him beyond the scientific pale.
+  - This sense of being drawn by destiny to swim against the prevailing tide makes him a richly intriguing character.
+  - Jung’s understanding of humanity grew directly out of his understanding of himself.
+  - Throughout his long life, Jung remained a deeply introverted man, more interested in the inner world of dreams and images than in the outer world of people
+  - enabled him to attend closely to experiences proceeding on or below the threshold of consciousness–experiences of which the great majority of us remain almost completely unaware.
+  - In his autobiography, Memories, Dreams, Reflections, Jung describes the home atmosphere as ‘unbreathable’: he says he was oppressed with a pervasive sense of death, melancholy, and unease, and with ‘dim intimations of trouble’ between his parents.
+  - **she had to spend several months in hospital, and this enforced separation at a critical stage in his development seems to have affected Jung for the rest of his life.**
+  - Although Carl was cared for by an aunt and a maid while his mother was away, he recalled being ‘deeply troubled’ by her absence: he suffered from nervous eczema and had terrifying dreams.
+  - Jung’s father was a kind, tolerant man, but his son experienced him as powerless, and emotionally immature.
+  - Carl was unhappy at school, feeling alienated both from his companions and from his inner self: his rather schizoid (i.e. withdrawn, aloof, and self-absorbed) manner made him unpopular, and the school environment was one in which he just could not flourish.
+  - essay which he had composed with immense care. When he protested his innocence, his schoolmates sided with the master. Such experiences made him feel ‘branded’ and utterly alone.
+  - ‘Now you won’t have to go to school any more.’) He spent as much time as he could on his own. ‘I remained alone with my thoughts. On the whole I liked that best.
+  - and had a secret world of my own’
+  - This gave Carl a feeling of ‘newly won security’ which sustained him through his father’s irritable moods, his mother’s depressive invalidism, and his ‘alienation’ at school.
+  - Another childhood ritual prepared him for his later insights into the importance of projection in psychology.
+  - Then he would ask himself, ‘Am I the one who is sitting on the stone, or am I the stone on which he is sitting?’
+  - Within the security of his inner citadel Carl experienced himself as made up of two separate personalities, which he referred to as ‘No. 1’ and ‘No. 2’ respectively. No. 1 was the son of his parents who went to school and coped with life as well as he could, while No. 2 was much older, remote from the world of human society, but close to nature and animals, to dreams, and to God.
+  - As a psychiatrist he came to understand that these two personalities were not unique to himself but present in everyone.
+  - Much later he was to rename these two personalities the ego and the Self and to maintain that the play and counter-play between them constitutes the central dynamic of personality development.
+  - Whenever Carl tackled him with religious questions the pastor became irritable and defensive: ‘You always want to think,’ he complained. ‘One ought not to think, but believe.’ The boy reflected inwardly, ‘No, one must experience and know!’
+  - An unbridgeable gulf opened between him and his father, for whom he felt ‘a most vehement pity’.
+  - **‘All at once I understood the tragedy of his profession and his life . . . I saw how hopelessly he was entrapped by the Church and its theological teaching . . . I now found myself cut off by the Church and from my father’s and everybody else’s faith’**
+  - Whereas other boys in similar circumstances might have turned to their peers for support, Carl Jung, possessing no friends, turned inwards to embrace his ‘No. 2’, the Self.
+  - **‘Other people all seemed to have totally different concerns. I felt completely alone with my certainties. More than ever I wanted someone to talk to, but nowhere did I find a point of contact**
+  - Why has no one had similar experiences to mine? I wondered . . . Why should I be the only one?’
+  - Goethe and Meister Eckhart. He was much excited by Schopenhauer’s The World as Will and Idea, which, together with Kant’s Critique of Pure Reason, brought him such illumination that, he says, it revolutionized his attitude to the world and to life.
+  - Influences
+  - his decision to study natural science and medicine was determined not so much by his reading as by his dreams.
+  - Student life seems to have had a liberating effect on him, as did the premature death of his father at the age of 54, when Jung was only 21. (‘ He died in time for you,’ his mother commented darkly.)
+  - I knew what I wanted and went after it. I also became noticeably more accessible and communicative’
+  - Heraclitus called enantiodromia (lit. ‘running counter to’). Jung believed it to be characteristic of all dynamic systems, and saw the human family as a prime example: as children grow up, they display a propensity to compensate in their own lives for the failings of their parents.
+  - **Jung himself, and his life may be understood in many ways as an effort to make good his father’s deficiencies.**
+  - Whereas Paul Jung was spiritually timid, intellectually incurious, and inclined to accept dogma, showed signs of emotional immaturity, and ducked the major issues of his life, Carl, by contrast, was to display spiritual courage and intellectual rigour, resisted dogma wherever he encountered it, spent his life refining techniques for the development of the personality, and was disposed to confront all important issues
+  - **The same compensatory propensity turned him into a lifelong gnostic (Greek, gnostikos, one who knows)–one dedicated to knowing the reality of the psyche through direct experience and personal revelation.**
+  - the title of the first paper he presented before the Society was ‘On the Limits of the Exact Sciences’ in which he attacked scientists for their inflexible materialism.
+  - the notion that the goal of personal development is wholeness, i.e. to become as complete a human being as personal circumstances allow.
+  - Here at last was the place where the collision of nature and spirit became a reality’
+  - for they felt he would be wasting his talents: psychiatry was the least respected speciality in medicine and they believed Jung could have a promising future as a physician.
+  - Eugen Bleuler (1857–1939), one of the outstanding psychiatrists of his time, and destined to enter history as the originator of the term schizophrenia.
+  - prolonged reaction time occurred when a stimulus word was associated in the subject’s mind with some disagreeable or disturbing idea.
+  - Like Bleuler, Freud was impressed by Jung’s energy, enthusiasm, and commitment. He became powerfully attached to him, recognizing him as ‘the ablest helper to have joined me thus far’ and seeing him as his probable successor as leader of the psychoanalytic movement.
+  - hypochondriac, and had a superstitious fear that he had only twelve years longer to live. Securing ‘the succession’ was thus a high priority for him, and, on the face of it, Jung was an excellent choice for the role.
+  - he was not Viennese and he was not a Jew. Freud was acutely aware of the danger that anti-Semitism, associated with public disgust at his ideas on
+  - Not only did his word-association experiments provide hard empirical evidence for the existence and power of unconscious complexes, but his work with schizophrenics carried psychoanalytic concepts into areas beyond Freud’s reach.
+  - **Although Jung basked in Freud’s approval and was flattered to be deemed a worthy successor to him, he knew that he could not endorse Freud’s ideas in their entirety. Nor could he sacrifice his intellectual integrity to a set of dogmas in the way that his father had done.**
+  - **Two of Freud’s basic assumptions were unacceptable to him: (1) that human motivation is exclusively sexual and (2) that the unconscious mind is entirely personal and peculiar to the individual.**
+  - Instead of conceiving psychic energy (or libido as Freud called it) as wholly sexual, Jung preferred to think of it as a more generalized ‘life force’, of which sexuality was but one mode of expression.
+  - **Jung believed there lay a deeper and more important layer that he was to call the collective unconscious, which contained in potentia the entire psychic heritage of mankind.**
+  - He concluded that there must exist a dynamic psychic substratum, common to all humanity, on the basis of which each individual builds his or her private experience of life.
+  - ==(‘ It is a risky business for an egg to be cleverer than the hen,’ Jung wrote to Freud. ‘Still what is in the egg must find the courage to creep out’) and finally erupted in 1912 with publication of part two (in a letter to Freud Jung quoted Zarathustra: ‘One repays a teacher badly if one remains only a pupil’).==
+  - Jung drew special attention to the myth of the hero, interpreting the recurrent theme of his fight with a dragon-monster as the struggle of the adolescent ego for deliverance from the mother. This led him to interpretations of the Oedipus complex and the incest taboo which were very different from those proposed by Freud.
+  - **In Jung’s view, a child became attached to his mother not because she was the object of incestuous passion, as Freud maintained, but because she was the provider of love and care–a view which anticipated the theoretical revolution wrought some forty years later by the British analyst and psychiatrist John Bowlby.**
+  - Publication of these views provoked a major rift with Freud which resulted in the formal termination of their relationship early in 1913.
+  - and withdrew from the psychoanalytic movement. Once again, he was entirely on his own.
+  - To Jung, the purpose of life was to realize one’s own potential, to follow one’s own perception of the truth, and to become a whole person in one’s own right. This was the goal of individuation, as he later called it. If he was to keep faith with himself, he had to go his own way: it would have been impossible for him to spend his life playing second fiddle in a two-man band.
+  - Jung maintained that essentially two kinds of women are important for a man: on the one hand, he needs a wife to create his home, and to bear and rear his children; on the other, a femme inspiratrice, a spiritual companion, to share his fantasies and inspire his greatest works.
+  - that he regarded this disaster as if it were an experiment being performed on him: a psychiatrist was having a breakdown, thus providing a golden opportunity for research. He could study the whole experience at first hand and then use it to help his patients.
+  - Jung came to see these as the embodiment of two archetypes–the eternal feminine and the wise old man.
+  - Philemon represented a force which was not myself. In my fantasies I held conversations with him, and he said things which I had not consciously thought.
+  - He said I treated thoughts as if I generated them myself, but in his view thoughts were like animals in the forest, or people in a room, or birds in the air, and added, ‘If you should see people in a room, you would not think that you had made those people, or that you were responsible for them.’ It was he who taught me psychic objectivity, the reality of the psyche.
+  - ‘Psychic existence is the only category of existence of which we have immediate knowledge, since nothing can be known unless it first appears as a psychic image’
+  - he says that he took great care to record every detail of what occurred to him, first in what came to be known as the Black Book, consisting of six black-bound notebooks, the contents of which he later transferred to the Red Book,
+  - One day while engaged in this work he heard a female voice say that what he was doing was not science but ‘art’.
+  - **had taken the step into darkness. When that happens, and then such a dream comes, one feels it as an act of grace’**
+  - The disturbance can last four or five years. When recovery sets in it occurs spontaneously, and is associated with euphoria and a transformation of the personality. The subject feels that he has gained insight into important truths and believes that he has a duty to share these with the world. Thus, Jung observed:
+  - Jung has detected first a ‘renunciation of the world’ (associated with an introversion and regression of libido) followed by an ‘acceptance of the world’ (associated with an extraversion of libido and a more mature adaptation to outer reality). The theme of the descent into the underworld and the return also occurs in the epic of Gilgamesh,
+  - noted, the neurotic breakdown suffered by Freud in the 1890s which he cured with his own self-analysis, discovering in the process the basic principles of psychoanalysis–the use of free association and dream analysis, the role of sexuality in the aetiology of neurotic illnesses, the stages of libidinal development in childhood, the fixation and regression of libido, the repression of forbidden wishes, and so on.
+  - On their recovery, both men published major and original books: Freud’s The Interpretation of Dreams appeared in 1900 when he was 45, and Jung’s Psychological Types in 1921 when he was 46.
+  - Jung, whilst most of Jung’s were developed after he had found the courage to part company from Freud
+  - Jung believed that his differences with Freud were due to his own introversion working in opposition to Freud’s extraversion.
+  - while Jung, a rural Protestant, insecurely bonded to a depressed, sometimes absent, mother, was steeped in theology and Romantic idealism.
+  - Another important distinction between them was Freud’s habitual tendency to look backwards, which gave him a reductive concern with origins, and Jung’s tendency to look forwards, which gave him an adaptive concern with goals.
+  - **Thus, self-realization requires the psyche to turn round on itself and confront what it produces.**
+  - At the end of his life he wrote: ‘At Bollingen I am in the midst of my true life, I am most deeply myself’ (MDR 214). It was the fulfilment in actuality of his childhood fantasy of the castle keep with its secret laboratory.
+  - One crucial event that occurred after his mid-life crisis was his ‘discovery’ of alchemy.
+  - developmental psychology from virtually all others is the idea that even in old age we are growing towards realization of our full potential.
+  - declined: ‘I cannot risk my authority,’ he said. At that moment, commented Jung, he lost it altogether. ‘That sentence burned itself into my memory, and in it the end of our relationship was already foreshadowed. Freud was placing personal authority above truth’
+  - When he finally summoned up the courage to announce his hypothesis of a collective unconscious, it proved to be his most significant departure from Freud, and his most important single contribution to psychology.
+  - he remained intractably resistant to the enormous implications of Jung’s bold and revolutionary idea.
+  - What Jung was proposing was no less than a fundamental concept on which the whole science of psychology could be built.
+  - the archetypes, as he eventually called them. Archetypes are ‘identical psychic structures common to all’ (CW V, para. 224), which together constitute ‘the archaic heritage of humanity’
+  - Essentially, he conceived them to be innate neuropsychic centres possessing the capacity to initiate, control, and mediate the common behavioural characteristics and typical experiences of all human beings.
+  - Thus, on appropriate occasions, archetypes give rise to similar thoughts, images, mythologems, feelings, and ideas in people, irrespective of their class, creed, race, geographical location, or historical epoch.
+  - Wos
+  - ==Jung never disagreed with Freud’s view that personal experience is of crucial significance for the development of each individual, but he denied that this development occurred in an unstructured personality. On the contrary, for Jung, the role of personal experience was to develop what is already there–to activate the archetypal potential already present in the Self.==
+  - To a limited extent Jung’s archetypes resemble Plato’s Ideas. For Plato, ‘Ideas’ were pure mental forms existing in the minds of the gods before human life began and were consequently above and beyond the ordinary world of phenomena. They were collective in the sense that they embodied the general
+  - **Archetypes similarly combine the universal with the individual, the general with the unique, in that they are common to all humanity, yet nevertheless manifest themselves in every human being in a way peculiar to him or to her.**
+  - Then, as the attachment relationship develops, the archetype becomes active in the personal psyche of the child in the form of the mother complex.
+  - specialists in linguistics maintain that although grammars differ from one another, their basic forms–which Noam Chomsky calls their deep structures–are universal (i.e. at the deepest neuropsychic level, there exists a universal
+  - new discipline, sociobiology, has grown up on the theory that the patterns of behaviour typical of all social species, the human species included, are dependent on genetically transmitted response strategies designed to maximize the fitness of the organism to survive in the environment in which it evolved;
+  - This raises an important question. If Jung’s theory of archetypes is so fundamental that it keeps being rediscovered by the practitioners of many other disciplines, why did it not receive the enthusiastic welcome it deserved when Jung proposed it? The explanation is, I think, twofold: namely, the time at which Jung stated the theory, and the way in which he published
+  - preferring to view the individual as a tabula rasa whose development was almost entirely dependent on environmental factors.
+  - His book Transformations and Symbols of the Libido in which he first put forward his idea of a collective unconscious giving rise to ‘primordial images’ (as he originally called archetypes) was so densely written and so packed with mythological exegesis as to make it virtually impenetrable to any but the most determined reader.
+  - **‘Everything comes from experience, yet not from actual experience, reiterated by each individual with each generation, but instead from experience accumulated by the entire ancestry of the species in the course of its evolution.’**
+  - Thus, the Jungian archetype is no more scientifically disreputable than the ethological IRM.
+  - so Jung conceived the programme for human life to be encoded in the collective unconscious as a series of archetypal determinants which are actualized in response to inner and outer events in the course of the life cycle.
+  - Those who reject the archetypal hypothesis remain unimpressed by the discovery of parallel themes in myths derived from different parts of the world, maintaining that these can be explained just as well by human migration and cultural diffusion as by an innate predisposition.
+  - One example which Jung frequently quoted was that of a schizophrenic patient who told him that if he stared at the sun with half-closed eyes he would see that the sun had a phallus and that this organ was the origin of the wind. Years later Jung came across a Greek text describing an almost identical vision:
+  - Much more persuasive examples could have been given, such as the one we have just used, namely, the behaviour of generations of mothers and children as they live out the mother–child archetypal programme.
+  - To explain Jung’s example it is necessary to postulate three archetypal objects (sun, phallus, and wind), an archetypal principle (that of masculine generativity), and an archetypal association between them (the sun’s phallus generating the wind).
+  - Behavioural characteristics such as maternal bonding, dominance striving, sexual mating, and home building satisfy three critical biological criteria, namely, universality, continuity, and evolutionary stability, and as such are liable to be archetypally based,
+  - The archetype possesses a fundamental duality: it is both a psychic structure and a neurological structure, both ‘spirit’ and ‘matter’, and Jung came to see it as the essential pre-condition of all psychophysical events:
+  - Pauli’s enthusiasm encouraged Jung to persevere in his attempts to penetrate that unitary reality which he, like the mystics of many religious traditions, believed to underlie all manifest phenomena.
+  - Pauli argued that by conceiving archetypes in this way, Jung had discovered the ‘missing link’ between the physical events (which are the legitimate study of science) and the mind of the scientist who studies them. In other words, the archetypes which order our perceptions and ideas are themselves the product of an objective order which transcends both the human mind and the external world. At this supreme point physical science, psychology, and theology all coalesce.
+  - the phenomenon of ‘meaningful coincidence’–which he called synchronicity: ‘A coincidence in time of two or more causally unrelated events which have the same or similar meaning’ (CW VIII, para. 849)–as when one dreams of the death of a distant friend the very same night that she dies. There can be no causal connection between the two events, yet we experience their conjunction as meaningful.
+  - ==This ‘acausal connecting principle’, as Jung called it, is the basis of the ancient Chinese attitude to reality incorporated in the I Ching or Book of Changes–namely, that anything that happens is related to everything else that happens at the same time.==
+  - ==Our Western world-view teaches that time is a purely abstract measure, but, if we are honest, it never feels as if it is. Indeed, the whole ‘nostalgia industry’ depends on our psychic awareness that time has a character all its own which colours events as they transpire.==
+  - **Certainly, synchronistic happenings are occasionally part of the experience of most of us, and there is something inherently unsatisfactory about the way in which they are customarily dismissed in our culture as ‘mere coincidence’.**
+  - that he took the irrational and apparently unconnected manifestations of human life as seriously as the rational and connected ones.
+  - If, as Jung believed, archetypes pre-condition all existence, then they must be manifest in the spiritual achievements of art, science, and religion as well as in the organization of organic and inorganic matter, and can provide a standpoint capable of transforming our understanding of all these phenomena.
+  - Whatever else the archetypal hypothesis may achieve, it can at least provide a bridge between the science of mind and the science of behaviour.
+  - **Jung maintained that as we mature we follow a natural sequence of steps which he describes in his essay ‘The Stages of Life’ (CW VIII, paras 749–95). Each stage is mediated through a new set of archetypal imperatives which seek fulfilment in both our personality and our behaviour.**
+  - the archetypal programme equips us for a life which is not always in tune with the life of contemporary urban society.
+  - contributing to the economy through gathering and hunting, participating in religious rituals and ceremonials, assuming the responsibilities of advanced maturity, old age, and preparation for death.
+  - As we have noted, the psychic nucleus responsible for co-ordinating this lifelong sequence Jung called the Self.
+  - In addition to the Self, Jung postulated archetypal components which play specific roles in the psychic development and social adjustment of everyone. These include the ego, persona, shadow, anima, and animus.
+  - In other words, we come into the world bearing with us an archetypal endowment which enables us to adapt to reality in the same way as our remote ancestors.
+  - This is both architect and builder of the dynamic structure which supports our psychic existence throughout life.
+  - Jung’s ‘Self’ which transcends the ego and inheres the age-old capacities of the species.
+  - also seeks fulfilment in the spiritual achievements of art and religion and in the inner life of the soul.
+  - The ego complex emerges out of the Self in the course of early childhood development,
+  - The ego is itself the centre of consciousness and it is what we refer to when we use the terms ‘I’ or ‘me’.
+  - Jung never made a clear distinction between the terms ‘ego’ and ‘consciousness’, using them interchangeably and sometimes together as ‘ego-consciousness’.
+  - those functions that Anna Freud described in her classic work Mechanisms of Ego-Defence (1946) (e.g. repression, denial, projection, rationalization,
+  - In the first half of life it is essential to develop a strong and effective ego if one is to deal competently with the tasks of this stage–separating off from the parents, establishing oneself in a job or profession, marrying, providing a home for one’s family, etc.
+  - Then the ego begins to confront the Self and the Self the ego, and through the mediation of the transcendent function (which we will examine later) bring about the attainment of personality integration and higher consciousness.
+  - The persona begins to form early in childhood out of a need to conform to the wishes and expectations of parents, peers, and teachers.
+  - The tendency is to build acceptable traits into the persona and to keep unacceptable traits hidden or repressed. These socially undesirable aspects of the maturing personality are usually relegated to the personal unconscious, where they coalesce to form another complex, or part personality, that Jung called the shadow.
+  - Shadow
+  - This is why Jung felt justified in regarding the shadow as a complex–that is to say, a cluster of traits bound together by common affects–which, like all complexes, had an archetypal core, in this instance, the archetype of the Enemy, the Predator, or the Evil Stranger.
+  - Of all archetypes the enemy is one of the most important and, potentially, the most deadly.
+  - by all social species: it is obviously a matter of survival to be able to distinguish between friend and foe from the earliest possible age.
+  - There are two important sources of the complex: (1) cultural indoctrination, and (2) familial repression.
+  - Dr Jekyll and Mr Hyde are the same man, by turns respectable physician and monstrous ogre; the popular TV personality with the compassionate manner and caring smile can be a hysterical termagant at home with her family.
+  - The moral complex forms on the basis of an archetypal imperative to learn and maintain the values of the culture into which we happen to have been born. If no such imperative existed, anarchy would be the natural human condition: we should all be psychopaths, incapable of co-operation or mutual trust, and the species could not conceivably exist.
+  - However, the acquisition of a moral complex imposes severe restraints on the Self, much of which is necessarily relegated to the shadow, where it is experienced–when it is experienced–as a threat. To defend ourselves from this threat, and to sustain our peace of mind, we make use of a variety of ego-defence mechanisms, particularly repression, denial, and projection.
+  - Not only do we repress the shadow in the personal unconscious, but we deny its existence in ourselves, and project it out on to others. This is done quite unconsciously: we are not aware that we do it.
+  - It explains the ubiquitous practice of scapegoating and underlies all kinds of prejudice against people belonging to identifiable groups other than our own.
+  - Adolf Hitler, for example, repeatedly described the Jews as Untermenschen (subhumans) and through the skilful use of propaganda was able to induce enough Germans to project their shadow on to them as to make the Holocaust possible.
+  - In the female, on the other hand, the ovaries are not formed until the sixth month, by which time the greater size, weight, and muscular strength of the male is already established. This is the biological basis of the sexual dimorphism apparent in the great majority of societies known to anthropology, where child-rearing is almost invariably the responsibility of women, and hunting and warfare the responsibility of men.
+  - Jung was quite clear about this. Again and again, he refers to the masculine and the feminine as two great archetypal principles, coexisting as equal and complementary parts of a balanced cosmic system, as expressed in the interplay of yin and yang in Taoist philosophy.
+  - **Gender is the psychic recognition and social expression of the sex to which nature has assigned us, and a child’s awareness of its gender is established by as early as eighteen months of age.**
+  - the child’s Self is unconsciously projected on to the mother in a participation mystique (a term which Jung borrowed from the anthropologist Lévy-Brühl to denote a relationship in which both partners are so intensely identified with one another as to be unaware of their separate existence).
+  - At this point, the presence of a father-figure can prove crucial, enabling the boy to move from a self-concept based on mother identity to one based on identification-with-father.
+  - being female in contrast to the essential ‘otherness’ of the male, and so profoundly influences how she experiences her femininity in relation to men.
+  - The archetype of the mother is the most immediate one for the child. But with the development of consciousness, the father also enters the field of vision, and activates an archetype whose nature is in many respects opposed to that of the mother.
+  - Virtually everywhere, it appears that girls tend to be more nurturant and affiliative than boys in that they are more prone to seek the proximity of others and to show pleasure in doing so. Boys, on the other hand, are less interested in social interaction for its own sake and tend to prefer some form of physical activity, such as running, chasing, and playing with large, movable toys.
+  - Jung called this contrasexual archetype the animus in women and the anima in men.
+  - He described them as ‘soul-images’ and the ‘not-I’, for they are experienced as something mysterious and numinous, possessing great power.
+  - The animus corresponds to the paternal Logos just as the anima corresponds to the maternal Eros’
+  - Thus, the more a man is incapable of accepting his shadow and the feminine qualities in himself the more he is identified with his persona.
+  - ‘everything that should normally be in the outer attitude, but is conspicuously absent, will invariably be found in the inner attitude. This is a fundamental rule
+  - despite changes in the environment. In fact, homeostatic regulation can be observed at all levels of existence, from molecules to communities, in living as well as non-living systems, and our whole planet is conceivable as one vast homeostatic system.
+  - **He therefore felt justified in viewing the psyche as a self-regulating system which strives perpetually to maintain a balance between opposing propensities, while, at the same time, seeking its own growth and development.**
+  - The psyche is a self-regulating system that maintains its equilibrium just as the body does.
+  - The principle of compensation is the key concept of Jungian psychodynamics, in that it is central to Jung’s understanding of how the psyche adapts and develops in the course of the life cycle.
+  - Behind a man’s actions there stands neither public opinion nor the moral code, but the personality of which he is still unconscious.
+## Further reading
