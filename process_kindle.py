@@ -1,4 +1,4 @@
-from lxml import etree
+from lxml import html
 import sys
 from pathlib import Path
 
@@ -11,7 +11,7 @@ def main():
     print(f"Processing highlights for {title}")
 
     with open(filename, 'rb') as f:
-        doc = etree.parse(f)
+        doc = html.parse(f)
 
     notes = []
     process_notes(doc, notes)
