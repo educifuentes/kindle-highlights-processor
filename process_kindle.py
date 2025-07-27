@@ -54,12 +54,19 @@ def process_notes(soup, notes):
             notes.append(f"## {line}")
             last_note_index = None
 
-        elif is_important(line):
+        elif is_very_important(line):
+            # Very important: highlight
             if last_note_index is not None and notes[last_note_index].startswith(prefix(2)):
                 prefix_len = len(prefix(2)) + 1
                 original_text = notes[last_note_index][prefix_len:]
                 notes[last_note_index] = f"{prefix(2)} =={original_text}=="
-            # skip this "Wow" line itself
+
+        elif is_important(line):
+            # Important: bold
+            if last_note_index is not None and notes[last_note_index].startswith(prefix(2)):
+                prefix_len = len(prefix(2)) + 1
+                original_text = notes[last_note_index][prefix_len:]
+                notes[last_note_index] = f"{prefix(2)} **{original_text}**"
 
         else:
             formatted_line = f"{prefix(2)} {line}"
@@ -69,8 +76,11 @@ def process_notes(soup, notes):
 def is_heading(tag):
     return 'sectionHeading' in tag.get('class', [])
 
+def is_very_important(line):
+    return line.startswith("Wow iii")
+
 def is_important(line):
-    return line.startswith('Wow')
+    return line.startswith("Wow") and not is_very_important(line)
 
 def prefix(spaces):
     return ' ' * spaces + '-'
