@@ -1,0 +1,20 @@
+[project]
+name = "kindle-notes"
+version = "0.1.0"
+description = "Convert Kindle notebook HTML exports to Markdown"
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "MIT" }
+authors = [
+    { name="Your Name", email="you@example.com" }
+]
+dependencies = [
+    "beautifulsoup4",
+]
+
+[project.scripts]
+kindle-notes = "process_kindle:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
