@@ -5,7 +5,9 @@ from pathlib import Path
 def main():
     filename = sys.argv[1]
     title = Path(filename).stem
-    output_file = f"{title}_notes.md"
+    output_dir = Path("outputs")
+    output_dir.mkdir(exist_ok=True)
+    output_file = output_dir / f"{title}_notes.md"
 
     print(":::kindle-to-markdown:::")
     print(f"Processing highlights for {title}")
