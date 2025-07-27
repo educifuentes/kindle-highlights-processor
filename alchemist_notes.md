@@ -1,4 +1,4 @@
-Notes from The Alchemist – Paulo Coelho
+The Alchemist – Paulo Coelho
 
 ## Foreword
   - People continue to ask me if I knew The Alchemist would be such a huge success. The answer is no. I had no idea. How could I? When I sat down to write The Alchemist, all I knew is that I wanted to write about my soul. I wanted to write about my quest to find my treasure.
