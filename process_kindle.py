@@ -37,14 +37,26 @@ def add_title_and_author(soup, notes):
 
 def process_notes(soup, notes):
     items = soup.select('.noteText, .sectionHeading')
+    last_note_index = None
+
     for item in items:
         line = item.get_text(strip=True)
+
         if is_heading(item):
             notes.append(f"## {line}")
+            last_note_index = None  # reset index after heading
+
+        elif is_important(line):
+            # Don't include "Wow..." line; instead highlight the previous note
+            if last_note_index is not None and notes[last_note_index].startswith(prefix(2)):
+                prefix_len = len(prefix(2)) + 1  # for "  - "
+                original_text = notes[last_note_index][prefix_len:]
+                notes[last_note_index] = f"{prefix(2)} =={original_text}=="
+
         else:
-            if is_important(line):
-                line = highlight(line)
-            notes.append(f"{prefix(2)} {line}")
+            formatted_line = f"{prefix(2)} {line}"
+            notes.append(formatted_line)
+            last_note_index = len(notes) - 1
 
 def is_heading(tag):
     return 'sectionHeading' in tag.get('class', [])
