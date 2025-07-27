@@ -6,9 +6,9 @@ Convert your Kindle notebook `.html` exports into clean, readable Markdown notes
 
 ## ✨ Features
 
-- Highlights are exported as bullet points, hierarchically nested by section or chapter
-- Important notes (e.g. those starting with "Wow") are automatically highlighted
-- Outputs clean `.md` files for use with Obsidian, Logseq, or any Markdown editor
+- Highlights are exported as bullet points, hierarchically organized by section or chapter
+- Important notes (e.g., those starting with "Wow") are formatted as `**bold**`, while very important notes (e.g., "Wow iii") are also `==highlighted==`
+- Outputs clean `.md` files compatible with Obsidian, Logseq, and any Markdown editor
 
 ---
 
